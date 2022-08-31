@@ -2,23 +2,23 @@
 
 ## variables
 
-* string 
+* string (str)
 
 ```python
 variable = "hola mundo"
 ```
 
-* int
+* int (int)
 ```python
 variable = 20
 ```
 
-* float
+* float (float)
 ```python
 variable = 20.3
 ```
 
-* list
+* list (list)
 
 > Nota: los listados son modificables, es decir, se puede agregar o quitar valores
 
@@ -26,7 +26,7 @@ variable = 20.3
 variable = [1,2,3]
 ```
 
-* tuples
+* tuples (tuples)
 
 > Nota: los tuples no son modificables
 
@@ -34,7 +34,7 @@ variable = [1,2,3]
 variable = (1,2,3)
 ```
 
-* diccionario
+* diccionario (dic)
 
 ```python
 producto = {"nombre":"cocacola","precio":300}

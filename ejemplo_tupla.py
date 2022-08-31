@@ -1,5 +1,5 @@
 #           0      1       2       3
-colores=["rojo","verde","azul","amarillo"]
+colores=("rojo","verde","azul","amarillo")
 
 print(colores)  # ['rojo', 'verde', 'azul', 'amarillo']
 
